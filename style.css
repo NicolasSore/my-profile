@@ -93,7 +93,7 @@ a {
 }
 
 a:hover {
-    color: #lightgrey;
+    color: lightgrey;
 }
 
 a:visited {
