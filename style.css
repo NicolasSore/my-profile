@@ -87,19 +87,18 @@ p {
     text-align: center;
 }
 
-a {
-    color: white; 
+a:visited {
+    color: steelblue; 
+}
+
+a:link {
+    color: lightcyan; 
     text-decoration: none; 
 }
 
 a:hover {
     color: lightgrey;
 }
-
-a:visited {
-    color: lightcyan; 
-}
-
 
 a:active {
     color: white; 
